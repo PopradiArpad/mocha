@@ -1,6 +1,6 @@
 'use strict';
 
-var mocha = require('../');
+var mocha = require('../../lib/mocha');
 var utils = mocha.utils;
 var Runnable = mocha.Runnable;
 
